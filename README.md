@@ -33,6 +33,6 @@ I would like to see the latest weather information about a location of my choice
 
 - Run 
   `npm install to install node modules`
-  `for development mode run npm run dev and visit http://localhost:3000`
+  `for development mode run npm dev and visit http://localhost:3000`
 
   
